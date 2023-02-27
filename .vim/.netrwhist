@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/gulartt/Projetos/pentest'
+let g:netrw_dirhist_5='/home/gulartt/Projetos/python'
+let g:netrw_dirhist_4='/home/gulartt/Projetos'
+let g:netrw_dirhist_3='/home/gulartt/Projetos/pentest'
+let g:netrw_dirhist_2='/home/gulartt/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_1='/home/gulartt/.config/sxhkd'
